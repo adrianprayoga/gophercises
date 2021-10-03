@@ -1,4 +1,4 @@
-module link
+module github.com/adrianprayoga/gophercises/link
 
 go 1.17
 

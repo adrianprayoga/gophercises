@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	link "github.com/adrianprayoga/gophercises/ex4_link"
+	link "github.com/adrianprayoga/gophercises/link"
 )
 
 func main() {
