@@ -1,4 +1,4 @@
-module ex4_link
+module github.com/adrianprayoga/gophercises/ex4_link
 
 go 1.17
 
