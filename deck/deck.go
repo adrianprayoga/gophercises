@@ -1,7 +1,7 @@
 package deck
 
 import (
-	"deck/card"
+	"github.com/adrianprayoga/gophercises/deck/card"
 	"math/rand"
 	"sort"
 )

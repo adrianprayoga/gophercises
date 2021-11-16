@@ -1,9 +1,9 @@
 package main
 
 import (
-	"deck"
-	"deck/card"
 	"fmt"
+	"github.com/adrianprayoga/gophercises/deck"
+	"github.com/adrianprayoga/gophercises/deck/card"
 )
 
 func main() {
